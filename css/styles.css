@@ -27,7 +27,7 @@ body.active{
 .no-js #experience-timeline>div h3{
     font-size:1.5em;
     font-weight:300;
-    color:#374054;
+    color:#ffae19;
     display:inline-block;
     margin:0
 }
@@ -79,7 +79,7 @@ header li{
 }
 header a{
     display:block;
-    color:#ffae19;
+    color:#3498db;
     padding:10px
 }
 header a:hover{
@@ -89,7 +89,7 @@ header a:hover{
     border-radius:4px
 }
 header a:focus{
-    color:#ffae19;
+    color:#3498db;
     text-decoration:none
 }
 header.active{
@@ -124,7 +124,7 @@ header.sticky{
     padding-right:15px;
     padding-top:10px;
     cursor:pointer;
-    color:#ffae19
+    color:#3498db
 }
 #mobile-menu-close span{
     font-size:0.5em;
@@ -188,7 +188,7 @@ footer{
     transition:.5s ease all
 }
 .btn-rounded-white:hover{
-    color:#ffae19;
+    color:#3498db;
     background:#fff;
     text-decoration:none
 }
@@ -249,7 +249,7 @@ footer{
     line-height:0.9em
 }
 #lead-content h2{
-    color:#a0cfee;
+    color:#ffbd44;
     font-weight:500;
     font-size:2.25em;
     margin-bottom:15px
@@ -282,7 +282,7 @@ footer{
     width:35px;
     height:35px;
     border-radius:50%;
-    border:3px solid #a0cfee;
+    border:3px solid #ffbd44;
     text-align:center
 }
 #lead-down i{
@@ -307,6 +307,7 @@ footer{
 }
 #about h2{
     color:#374054
+	ffae19
 }
 #about p{
     color:#74808a;
