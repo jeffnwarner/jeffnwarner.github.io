@@ -536,7 +536,7 @@ footer{
     border-radius:4px;
     border:none;
     margin-bottom:10px;
-    background:#1d6fa5;
+    background:#0f4099;
     color:#fff;
     transition:.5s ease all
 }
@@ -556,7 +556,7 @@ footer{
 }
 #contact-form input:focus,#contact-form textarea:focus{
     outline:none;
-    background:#16527a
+    background:#0a2b66
 }
 #contact-form textarea{
     height:150px;
