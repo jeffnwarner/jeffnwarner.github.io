@@ -22,7 +22,7 @@ body.active{
     background:#171717;
     padding:10px;
     margin-bottom:10px;
-    border:1px solid #dcd9d9
+    border:1px solid #282828
 }
 .no-js #experience-timeline>div h3{
     font-size:1.5em;
@@ -303,7 +303,7 @@ footer{
 }
 #about{
     padding:75px 15px;
-    border-bottom:1px solid #dcd9d9
+    border-bottom:1px solid #282828
 }
 #about h2{
     color:#374054
@@ -315,7 +315,7 @@ footer{
 #experience{
     padding:50px 15px;
     text-align:center;
-    border-bottom:1px solid #dcd9d9
+    border-bottom:1px solid #282828
 }
 #experience h2{
     color:#374054
@@ -406,7 +406,7 @@ footer{
 }
 #education{
     padding:50px 15px 20px 15px;
-    border-bottom:1px solid #dcd9d9;
+    border-bottom:1px solid #282828;
     text-align:center
 }
 #education h2{
@@ -417,7 +417,7 @@ footer{
     max-width:700px;
     margin:0 auto 30px auto;
     padding:15px;
-    border:1px solid #dcd9d9;
+    border:1px solid #282828;
     text-align:left
 }
 .education-block h3{
@@ -446,7 +446,7 @@ footer{
 }
 #projects{
     padding:50px 15px;
-    border-bottom:1px solid #dcd9d9;
+    border-bottom:1px solid #282828;
     text-align:center
 }
 #projects h2{
@@ -580,7 +580,7 @@ footer{
 .optional-section{
     padding:50px 15px;
     text-align:center;
-    border-top:1px solid #dcd9d9
+    border-top:1px solid #282828
 }
 .optional-section h2{
     color:#374054
@@ -589,7 +589,7 @@ footer{
     max-width:700px;
     margin:0 auto 30px auto;
     padding:15px;
-    border:1px solid #dcd9d9;
+    border:1px solid #282828;
     background:#171717;
     text-align:left
 }
