@@ -307,19 +307,20 @@ footer{
 	background-color:#171717
 }
 #about h2{
-    color:#374054
+    color:#fff
 }
 #about p{
-    color:#74808a;
+    color:#fff;
     margin:0
 }
 #experience{
     padding:50px 15px;
     text-align:center;
-    border-bottom:1px solid #dcd9d9
+    border-bottom:1px solid #dcd9d9;
+	background-color: #282828
 }
 #experience h2{
-    color:#374054
+    color:#fff
 }
 #experience-timeline{
     margin:30px auto 0 auto;
@@ -359,18 +360,18 @@ footer{
 .vtimeline-content h3{
     font-size:1.5em;
     font-weight:300;
-    color:#374054;
+    color:#fff;
     display:inline-block;
     margin:0
 }
 .vtimeline-content h4{
     font-size:1.2em;
     font-weight:300;
-    color:#7e8890;
+    color:#fff;
     margin:0 0 15px 0
 }
 .vtimeline-content p{
-    color:#74808a;
+    color:#fff;
     font-size:0.9em;
     margin:0
 }
@@ -408,10 +409,11 @@ footer{
 #education{
     padding:50px 15px 20px 15px;
     border-bottom:1px solid #dcd9d9;
-    text-align:center
+    text-align:center;
+	background-color: #171717
 }
 #education h2{
-    color:#374054;
+    color:#fff;
     margin-bottom:50px
 }
 .education-block{
@@ -425,21 +427,21 @@ footer{
     font-weight:500;
     float:left;
     margin:0;
-    color:#374054
+    color:#fff
 }
 .education-block span{
     color:#74808a;
     float:right
 }
 .education-block h4{
-    color:#74808a;
+    color:#fff;
     clear:both;
     font-weight:500;
     margin:0 0 15px 0
 }
 .education-block p,.education-block ul{
     margin:0;
-    color:#74808a;
+    color:#fff;
     font-size:0.9em
 }
 .education-block ul{
@@ -448,10 +450,11 @@ footer{
 #projects{
     padding:50px 15px;
     border-bottom:1px solid #dcd9d9;
-    text-align:center
+    text-align:center;
+	background-color: #282828
 }
 #projects h2{
-    color:#374054;
+    color:#fff;
     margin-bottom:50px
 }
 .project{
@@ -475,11 +478,11 @@ footer{
 .project-info h3{
     font-size:1.5em;
     font-weight:300;
-    color:#374054;
+    color:#fff;
     margin:0 0 15px 0
 }
 .project-info p{
-    color:#74808a;
+    color:#fff;
     margin:0 0 15px 0;
     font-size:0.9em
 }
@@ -494,10 +497,11 @@ footer{
 }
 #skills{
     padding:50px 15px;
-    text-align:center
+    text-align:center;
+	background-color: #171717
 }
 #skills h2{
-    color:#374054;
+    color:#fff;
     margin-bottom:50px
 }
 #skills ul{
@@ -519,12 +523,12 @@ footer{
 #contact{
     padding:50px 15px;
     background:#f2f2f5;
-    text-align:center
+    text-align:center;
+	background-color: #282828
 }
 #contact h2{
-    margin:0 0 15px 0;
-    color:#374054;
-    font-weight:500
+    color:#fff;
+    margin-bottom:50px
 }
 #contact-form{
     max-width:500px;
@@ -538,22 +542,22 @@ footer{
     border:none;
     margin-bottom:10px;
     background:#fff;
-    color:#374054;
+    color:#fff;
     transition:.5s ease all
 }
 #contact-form input::-webkit-input-placeholder,#contact-form textarea::-webkit-input-placeholder{
-    color:##374054
+    color:#fff
 }
 #contact-form input:-moz-placeholder,#contact-form textarea:-moz-placeholder{
-    color:##374054;
+    color:#fff;
     opacity:1
 }
 #contact-form input::-moz-placeholder,#contact-form textarea::-moz-placeholder{
-    color:##374054;
+    color:#fff;
     opacity:1
 }
 #contact-form input:-ms-input-placeholder,#contact-form textarea:-ms-input-placeholder{
-    color:#374054
+    color:#fff
 }
 #contact-form input:focus,#contact-form textarea:focus{
     outline:none;
@@ -584,7 +588,7 @@ footer{
     border-top:1px solid #dcd9d9
 }
 .optional-section h2{
-    color:#374054
+    color:#fff
 }
 .optional-section-block{
     max-width:700px;
@@ -597,17 +601,17 @@ footer{
 .optional-section-block h3{
     font-weight:500;
     margin:0 0 15px 0;
-    color:#374054
+    color:#fff
 }
 .optional-section-block h4{
-    color:#74808a;
+    color:#fff;
     clear:both;
     font-weight:500;
     margin:0 0 15px 0
 }
 .optional-section-block p,.optional-section-block ul{
     margin:0 0 15px 0;
-    color:#74808a;
+    color:#fff;
     font-size:0.9em
 }
 .optional-section-block ul{
