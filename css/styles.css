@@ -477,7 +477,8 @@ footer{
     top:50%;
     transform:translateY(-50%);
     margin-left:300px;
-    padding:15px
+    padding:15px;
+	background-color:#171717
 }
 .project-info h3{
     font-size:1.5em;
@@ -490,6 +491,11 @@ footer{
     margin:0 0 15px 0;
     font-size:0.9em
 }
+
+.project-info a{
+    color:#196aff
+}
+
 .no-image .project-info{
     position:relative;
     margin:0;
@@ -518,8 +524,8 @@ footer{
     display:inline-block;
     margin:7px;
     padding:5px 10px;
-    color:#374054;
-    background:#e4e4ea;
+    color:#fff;
+    background:#282828;
     list-style:none;
     cursor:default;
     font-size:1.2em
