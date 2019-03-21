@@ -19,7 +19,7 @@ body.active{
     z-index:-1
 }
 .no-js #experience-timeline>div{
-    background:#fff;
+    background:#171717;
     padding:10px;
     margin-bottom:10px;
     border:1px solid #dcd9d9
@@ -67,7 +67,7 @@ header{
 }
 header ul{
     display:inline-block;
-    background:#fff;
+    background:#171717;
     text-align:center;
     padding:10px;
     margin:0;
@@ -113,13 +113,13 @@ header.sticky{
     z-index:20;
     padding:0 7px;
     border-radius:4px;
-    background:#fff
+    background:#171717
 }
 #mobile-menu-close{
     display:none;
     text-align:right;
     width:100%;
-    background:#fff;
+    background:#171717;
     font-size:1.5em;
     padding-right:15px;
     padding-top:10px;
@@ -181,15 +181,15 @@ footer{
 }
 .btn-rounded-white{
     display:inline-block;
-    color:#fff;
+    color:#171717;
     padding:15px 25px;
-    border:3px solid #fff;
+    border:3px solid #171717;
     border-radius:30px;
     transition:.5s ease all
 }
 .btn-rounded-white:hover{
     color:#196aff;
-    background:#fff;
+    background:#171717;
     text-decoration:none
 }
 .shadow{
@@ -241,7 +241,7 @@ footer{
     margin:0
 }
 #lead-content h1{
-    color:#fff;
+    color:#171717;
     font-weight:900;
     font-size:5em;
     text-transform:uppercase;
@@ -249,7 +249,7 @@ footer{
     line-height:0.9em
 }
 #lead-content h2{
-    color:#196aff;
+    color:#171717;
     font-weight:500;
     font-size:2.25em;
     margin-bottom:15px
@@ -273,7 +273,7 @@ footer{
     text-align:center;
     z-index:10;
     bottom:15px;
-    color:#fff
+    color:#171717
 }
 #lead-down span{
     cursor:pointer;
@@ -282,7 +282,7 @@ footer{
     width:35px;
     height:35px;
     border-radius:50%;
-    border:3px solid #ffbd44;
+    border:3px solid #ffae19;
     text-align:center
 }
 #lead-down i{
@@ -349,7 +349,7 @@ footer{
 }
 .vtimeline-content{
     margin-left:350px;
-    background:#fff;
+    background:#171717;
     border:1px solid #e6e6e6;
     padding:15px;
     border-radius:3px;
@@ -381,7 +381,7 @@ footer{
 }
 .vtimeline-icon{
     position:relative;
-    color:#fff;
+    color:#171717;
     width:50px;
     height:50px;
     background:#ffae19;
@@ -458,7 +458,7 @@ footer{
     max-width:900px;
     margin:0 auto 30px auto;
     overflow:hidden;
-    background:#fff;
+    background:#171717;
     border-radius:4px
 }
 .project-image{
@@ -536,7 +536,7 @@ footer{
     border-radius:4px;
     border:none;
     margin-bottom:10px;
-    background:#fff;
+    background:#171717;
     color:#374054;
     transition:.5s ease all
 }
@@ -556,7 +556,7 @@ footer{
 }
 #contact-form input:focus,#contact-form textarea:focus{
     outline:none;
-    background:#fff
+    background:#171717
 }
 #contact-form textarea{
     height:150px;
@@ -565,7 +565,7 @@ footer{
 #contact-form button{
     display:block;
     width:100%;
-    background:#fff;
+    background:#171717;
     border-radius:4px;
     padding:5px 10px;
     border:none;
@@ -590,7 +590,7 @@ footer{
     margin:0 auto 30px auto;
     padding:15px;
     border:1px solid #dcd9d9;
-    background:#fff;
+    background:#171717;
     text-align:left
 }
 .optional-section-block h3{
