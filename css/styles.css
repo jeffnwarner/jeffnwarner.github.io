@@ -136,7 +136,8 @@ header.sticky{
     vertical-align:middle
 }
 footer{
-    padding:50px 0
+    padding:50px 0;
+	background-color: #171717
 }
 .copyright{
     padding-top:20px;
@@ -144,7 +145,7 @@ footer{
 }
 .copyright p{
     margin:0;
-    color:#74808a
+    color:#393939
 }
 .top{
     text-align:center
@@ -180,7 +181,7 @@ footer{
     padding:10px
 }
 .social a:hover{
-    color:#ffae19
+    color:#196aff
 }
 .btn-rounded-white{
     display:inline-block;
