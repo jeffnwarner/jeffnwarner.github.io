@@ -354,7 +354,7 @@ footer{
 }
 .vtimeline-content{
     margin-left:350px;
-    background:#fff;
+    background:#171717;
     border:1px solid #e6e6e6;
     padding:15px;
     border-radius:3px;
@@ -407,7 +407,7 @@ footer{
     left:0;
     top:10px;
     font-weight:300;
-    color:#374054
+    color:#fff
 }
 #education{
     padding:50px 15px 20px 15px;
