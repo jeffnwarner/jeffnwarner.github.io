@@ -101,7 +101,8 @@ header.sticky{
     z-index:999
 }
 #menu.active{
-    display:block
+    display:block;
+	background-color: #282828
 }
 #mobile-menu-open{
     display:none;
