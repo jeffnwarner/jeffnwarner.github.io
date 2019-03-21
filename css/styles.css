@@ -63,7 +63,8 @@ header{
     animation-name:dropHeader;
     animation-iteration-count:1;
     animation-timing-function:ease;
-    animation-duration:0.75s
+    animation-duration:0.75s;
+	background-color: #171717;
 }
 header ul{
     display:inline-block;
@@ -181,7 +182,7 @@ footer{
 }
 .btn-rounded-white{
     display:inline-block;
-    color:#fff;
+    color:#171717;
     padding:15px 25px;
     border:3px solid #fff;
     border-radius:30px;
@@ -189,7 +190,7 @@ footer{
 }
 .btn-rounded-white:hover{
     color:#196aff;
-    background:#fff;
+    background:#171717;
     text-decoration:none
 }
 .shadow{
@@ -241,7 +242,7 @@ footer{
     margin:0
 }
 #lead-content h1{
-    color:#fff;
+    color:#171717;
     font-weight:900;
     font-size:5em;
     text-transform:uppercase;
@@ -249,7 +250,7 @@ footer{
     line-height:0.9em
 }
 #lead-content h2{
-    color:#196aff;
+    color:#171717;
     font-weight:500;
     font-size:2.25em;
     margin-bottom:15px
