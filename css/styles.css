@@ -68,7 +68,7 @@ header{
 }
 header ul{
     display:inline-block;
-    background:##282828;
+    background:#282828;
     text-align:center;
     padding:10px;
     margin:0;
@@ -84,7 +84,7 @@ header a{
     padding:10px
 }
 header a:hover{
-    color:#1454cc;
+    color:#393939;
     text-decoration:none;
     background:#eee;
     border-radius:4px
