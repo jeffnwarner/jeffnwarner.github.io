@@ -408,7 +408,7 @@ footer{
     left:0;
     top:10px;
     font-weight:300;
-    color:#eee
+    color:#aaa
 }
 #education{
     padding:50px 15px 20px 15px;
@@ -435,7 +435,7 @@ footer{
     color:#fff
 }
 .education-block span{
-    color:#eee;
+    color:#aaa;
     float:right
 }
 .education-block h4{
