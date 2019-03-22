@@ -323,12 +323,12 @@ footer{
 }
 #about img{
 	width:100%;
-	max-width:246px;
+	max-width:200px;
 	height:auto;
 	border-color:#282828;
     border-width:5px;
     border-style:solid;
-	border-radius:250px
+	border-radius:200px
 }
 #about br{
 	color:#fff;
