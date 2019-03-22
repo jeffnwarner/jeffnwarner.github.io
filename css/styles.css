@@ -325,7 +325,16 @@ footer{
 	width:100%;
 	max-width:246px;
 	height:auto;
-	border: 0px
+	border-color:#282828;
+    border-width:5px;
+    border-style:solid;
+	border-radius:100px;
+}
+#about br{
+	color:#fff;
+}
+#about strong{
+	color:#fff;
 }
 #experience{
     padding:50px 15px;
