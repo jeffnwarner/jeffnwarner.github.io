@@ -164,7 +164,6 @@ footer{
     color:#fff
 }
 .social{
-    text-align:right
 }
 .social ul{
     margin:5px 5px 5px 5px;
@@ -184,8 +183,7 @@ footer{
     color:#196aff
 }
 .social i{
-    height:32px;
-	weight:32px;
+    margin:0px 5px 0px 0px;
 	align:left
 }
 .btn-rounded-white{
