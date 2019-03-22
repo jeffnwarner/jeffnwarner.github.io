@@ -325,14 +325,7 @@ footer{
 	width:100%;
 	max-width:246px;
 	height:auto;
-	align:center;
 	border: 0px
-}
-#about strong{
-	align:right
-}
-#about br{
-	align:right
 }
 #experience{
     padding:50px 15px;
