@@ -177,10 +177,15 @@ footer{
 .social a{
     display:block;
     color:#eee;
-    padding:10px
+    padding:10px;
+	text-align:center
 }
 .social a:hover{
     color:#196aff
+}
+.social i{
+    height:32px;
+	weight:32px
 }
 .btn-rounded-white{
     display:inline-block;
