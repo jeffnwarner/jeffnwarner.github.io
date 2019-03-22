@@ -185,7 +185,8 @@ footer{
 }
 .social i{
     height:32px;
-	weight:32px
+	weight:32px;
+	align:left
 }
 .btn-rounded-white{
     display:inline-block;
