@@ -167,17 +167,16 @@ footer{
     text-align:right
 }
 .social ul{
-    margin:5px 0 0 0;
+    margin:5px 5px 5px 5px;
     padding:0
 }
 .social li{
-    display:inline-block;
-    font-size:1.25em;
+    display:list-item;
     list-style:none
 }
 .social a{
     display:block;
-    color:#74808a;
+    color:#eee;
     padding:10px
 }
 .social a:hover{
