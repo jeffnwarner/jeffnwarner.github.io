@@ -521,10 +521,6 @@ footer{
 	width:100%;
 	max-width:200px;
 	height:auto;
-	border-color:#282828;
-    border-width:5px;
-    border-style:solid;
-	border-radius:200px
 }
 .no-image .project-info{
     position:relative;
