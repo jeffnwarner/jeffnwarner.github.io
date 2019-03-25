@@ -518,10 +518,9 @@ footer{
     color:#196aff
 }
 #projects img{
-	width:100%;
-	max-width:300px;
 	height:100%;
-	max-height:350px
+	max-height:350px;
+	width: auto
 }
 .no-image .project-info{
     position:relative;
