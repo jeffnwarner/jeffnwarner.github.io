@@ -492,12 +492,13 @@ footer{
     border-radius:4px
 }
 .project-image{
-    float:left
+    float:left;
+    top: 50%;
+    margin-top: -155px;
+    position: absolute;
 }
 .project-info{
-    position:absolute;
     top:50%;
-    transform:translateY(-50%);
     margin-left:200px;
     padding:15px;
 	background-color:#171717
